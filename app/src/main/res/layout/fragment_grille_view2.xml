@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:layout="http://schemas.android.com/apk/res-auto"
+    tools:context=".FragmentGrilleView">
+
+    <com.example.tictactoeremaster.GrilleView
+        android:id="@+id/grille_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        layout:layout_constraintStart_toStartOf="parent"
+        layout:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="150dp"
+        layout:layout_constraintTop_toTopOf="parent">
+    </com.example.tictactoeremaster.GrilleView>
+
+</FrameLayout>

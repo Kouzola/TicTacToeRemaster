@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToeRemaster</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Button_Play_GameStart">Jouer</string>
+</resources>
