@@ -45,9 +45,4 @@ class MainActivity : AppCompatActivity(){
             else INVISIBLE
         })
     }
-
-
-//TODO : Use viewModel but do tutorial before pour faire afficher bouton Home ou rejouer au dessous de l'écran dans la main activity
-    //TODO : Idée mettre une variable en commun dans le view Model pour pouvoir afficher les bouton ici et une fois que t'appui sur les bouton ramener au home ou rejouer
-
 }
