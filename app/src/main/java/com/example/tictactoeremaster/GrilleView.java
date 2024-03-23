@@ -256,6 +256,3 @@ public class GrilleView extends View implements ProgressiveDrawingAnimator.Anima
 
 
 
-
-//TODO : Refactoriser toutes la classe pour simplifier le bail
-//TODO : Faire animator pour la ligne gagnante
